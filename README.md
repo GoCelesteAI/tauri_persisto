@@ -5,7 +5,7 @@ Demo app for **Episode 5: Persist App State to Disk in Tauri 2 — Store Plugin 
 A small app that remembers its state across restarts. `tauri-plugin-store` gives you a tiny key-value store that writes JSON to the OS app data directory — no schema, no migrations, no boilerplate.
 
 - **Watch on YouTube:** https://www.youtube.com/watch?v=pBAk7ZR4aX8
-- **Read on Codegiz:** https://codegiz.com/blog/tauri-patterns-episode-5-persist-app-state-to-disk-in-tauri-2
+- **Read on Codegiz:** https://www.codegiz.com/blog/tauri-patterns-episode-5-persist-app-state-to-disk-in-tauri-2/
 - **Series index:** https://github.com/GoCelesteAI/tauri-patterns
 
 ## What this app shows
